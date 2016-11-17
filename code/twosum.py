@@ -3,15 +3,17 @@ Question:
 Given an array of integers, return indices of the two numbers
 such that they add up to a specific target.
 
->>> for two_sum in [two_sum_1, two_sum_2, two_sum_3]:
-...    assert two_sum([3, 2, 4], 6) == [1, 2]
-...    assert two_sum([2, 7, 11, 15], 9) == [0, 1]
-...    assert two_sum([0, 2, 3, 0], 0) == [0, 3]
+>>> two_sum([3, 2, 4], 6)
+[1, 2]
+>>> two_sum([2, 7, 11, 15], 9)
+[0, 1]
+>>> two_sum([0, 2, 3, 0], 0)
+[0, 3]
 """
 
 
 # Solution 1: double loop
-def two_sum_1(nums, target):
+def two_sum(nums, target):
     for i in range(len(nums)):
         for j in range(i + 1, len(nums)):
             if nums[i] + nums[j] == target:
@@ -20,7 +22,7 @@ def two_sum_1(nums, target):
 
 
 # Solution 2: two-pass hash table
-def two_sum_2(nums, target):
+def two_sum(nums, target):
     map_ = {}
     # build a {element: index} map
     for i, num in enumerate(nums):
@@ -36,7 +38,7 @@ def two_sum_2(nums, target):
 
 
 # Solution 3: one-pass hash table
-def two_sum_3(nums, target):
+def two_sum(nums, target):
     map_ = {}
 
     # build map while iter
