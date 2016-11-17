@@ -1,0 +1,16 @@
+language: python
+
+python:
+    - "2.7"
+    - "3.5"
+    - "nightly"
+
+install:
+    - pip install -r requirements.txt
+
+before_script:
+    - flake8 ./code/ --select=E,W
+
+script:
+    - py.test ./code/ --doctest-modules
+
