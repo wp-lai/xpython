@@ -4,10 +4,10 @@
 Exercises in Python
 
 ## Leetcode
-+ [Two Sum](code/twosum.py)
-+ [Longest Substring Without Repeating Characters](code/longestsubstringlen.py)
-+ [Median of Two Sorted Arrays](code/findmediansortedarrays.py)
-+ [Longest Palindromic Substring](code/longestpalindrome.py)
++ [#1 Two Sum](code/twosum.py)
++ [#3 Longest Substring Without Repeating Characters](code/longestsubstringlen.py)
++ [#4 Median of Two Sorted Arrays](code/findmediansortedarrays.py)
++ [#5 Longest Palindromic Substring](code/longestpalindrome.py)
 
 ## Others
 + [Anagram Detection](code/anagram.py)

@@ -9,7 +9,7 @@ install:
     - pip install -r requirements.txt
 
 before_script:
-    - flake8 ./code/ --select=E,W
+    - flake8 ./code/ --ignore=F811
 
 script:
     - py.test ./code/ --doctest-modules
