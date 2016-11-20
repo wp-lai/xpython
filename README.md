@@ -8,6 +8,7 @@ Exercises in Python
 + [#3 Longest Substring Without Repeating Characters](code/longestsubstringlen.py)
 + [#4 Median of Two Sorted Arrays](code/findmediansortedarrays.py)
 + [#5 Longest Palindromic Substring](code/longestpalindrome.py)
++ [#6 ZigZag Conversion](code/zigzag.py)
 
 ## Others
 + [Anagram Detection](code/anagram.py)
