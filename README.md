@@ -18,3 +18,4 @@ Exercises in Python
 + [Integer to Binary](code/int2binary.py)
 + [Roman Numerals](code/romannumerals.py)
 + [Modular Exponentiation](code/modexp.py)
++ [Covering Segments by Points](code/covering_segments.py)
