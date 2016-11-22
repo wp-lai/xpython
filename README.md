@@ -9,6 +9,7 @@ Exercises in Python
 + [#4 Median of Two Sorted Arrays](code/findmediansortedarrays.py)
 + [#5 Longest Palindromic Substring](code/longestpalindrome.py)
 + [#6 ZigZag Conversion](code/zigzag.py)
++ [#179 Largest Number](code/largestnumber.py)
 
 ## Others
 + [Anagram Detection](code/anagram.py)
