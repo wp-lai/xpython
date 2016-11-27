@@ -10,6 +10,7 @@ Exercises in Python
 + [#5 Longest Palindromic Substring](code/longestpalindrome.py)
 + [#6 ZigZag Conversion](code/zigzag.py)
 + [#7 Reverse Integer](code/reverse_int.py)
++ [#8 String to Integer](code/atoi.py)
 + [#179 Largest Number](code/largestnumber.py)
 
 ## Others
