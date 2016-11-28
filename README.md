@@ -11,6 +11,7 @@ Exercises in Python
 + [#6 ZigZag Conversion](code/zigzag.py)
 + [#7 Reverse Integer](code/reverse_int.py)
 + [#8 String to Integer](code/atoi.py)
++ [#9 Palindrome Number](code/pal_num.py)
 + [#179 Largest Number](code/largestnumber.py)
 
 ## Others
