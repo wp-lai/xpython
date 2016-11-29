@@ -23,3 +23,4 @@ Exercises in Python
 + [Roman Numerals](code/romannumerals.py)
 + [Modular Exponentiation](code/modexp.py)
 + [Covering Segments by Points](code/covering_segments.py)
++ [Points Covered by #Segments](code/points_and_segments.py)
