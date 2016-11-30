@@ -24,3 +24,4 @@ Exercises in Python
 + [Modular Exponentiation](code/modexp.py)
 + [Covering Segments by Points](code/covering_segments.py)
 + [Points Covered by #Segments](code/points_and_segments.py)
++ [Finding the distance of Closest Pair of Points](code/CPP.py)
