@@ -1,6 +1,6 @@
 """
-Question:
-Find greatest common divisor
+Task:
+    Find greatest common divisor
 
 >>> gcd(54, 24)
 6

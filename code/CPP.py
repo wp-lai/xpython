@@ -1,5 +1,5 @@
 """
-Question:
+Task:
     Given n points on a plane, find the smallest distance between a pair of
     two (different) points.
 

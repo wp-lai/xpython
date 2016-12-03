@@ -1,7 +1,7 @@
 """
-Question:
-Given a string, find the length of the
-longest substring without repeating characters.
+Task:
+    Given a string, find the length of the
+    longest substring without repeating characters.
 
 
 >>> len_longest_substring("abcabcbb")

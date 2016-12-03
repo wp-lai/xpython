@@ -1,9 +1,8 @@
 """
-Question: Anagram Detection
-One string is an anagram of another if the second is
-simply a rearrangement of the first.
-Write a boolean function that will take two strings
-and return whether they are anagrams.
+Task:
+    Anagram Detection. One string is an anagram of another if the second is
+    simply a rearrangement of the first. Write a boolean function that will
+    take two strings and return whether they are anagrams.
 
 >>> is_anagram('heart', 'earth')
 True

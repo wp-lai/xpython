@@ -1,6 +1,6 @@
 """
-Question:
-Converting decimal numbers to binary numbers
+Task:
+    Converting decimal numbers to binary numbers
 
 >>> convert_to_binary(25)
 '0b11001'

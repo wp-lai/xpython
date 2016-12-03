@@ -1,5 +1,5 @@
 """
-Question:
+Task:
     Given a set of n segments {[a0,b0],[a1,b1]....[an-1,bn-1]} with integer
     coordinates on a line, find the minimum number 'm' of points such that
     each segment contains at least one point .That is,  find a set of

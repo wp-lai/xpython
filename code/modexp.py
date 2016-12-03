@@ -1,8 +1,8 @@
 """
-Question:
-Compute Modular exponentiation, which is a type of
-exponentiation performed over a modulus.
-See: https://www.wikiwand.com/en/Modular_exponentiation
+Task:
+    Compute Modular exponentiation, which is a type of exponentiation performed
+    over a modulus.
+    See: https://www.wikiwand.com/en/Modular_exponentiation
 
 >>> mod_pow(4, 13, 497)
 445

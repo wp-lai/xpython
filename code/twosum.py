@@ -1,7 +1,7 @@
 """
-Question:
-Given an array of integers, return indices of the two numbers
-such that they add up to a specific target.
+Task:
+    Given an array of integers, return indices of the two numbers such that
+    they add up to a specific target.
 
 >>> two_sum([3, 2, 4], 6)
 [1, 2]

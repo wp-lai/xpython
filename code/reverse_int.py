@@ -1,5 +1,5 @@
 """
-Question:
+Task:
     Reverse digits of an integer.
 
 >>> reverse_int(1234)

@@ -1,5 +1,5 @@
 """
-Question:
+Task:
     Determine whether an integer is a palindrome.
 
 >>> is_pal_number(0)
