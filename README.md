@@ -27,3 +27,4 @@ Exercises in Python
 + [Points Covered by #Segments](code/points_and_segments.py)
 + [Finding the Distance of Closest Pair of Points](code/CPP.py)
 + [Find Pattern in Text](code/substrsearch.py)
++ [Longest Common Substring](code/lcs.py)
