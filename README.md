@@ -14,6 +14,7 @@ Exercises in Python
 + [#9 Palindrome Number](code/pal_num.py)
 + [#12 Integer to Roman](code/int2roman.py)
 + [#13 Roman to Integer](code/roman2int.py)
++ [#14 Longest Common Prefix](code/lcp.py)
 + [#169 Majority Element](code/major_elem.py)
 + [#179 Largest Number](code/largestnumber.py)
 
