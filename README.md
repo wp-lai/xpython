@@ -15,6 +15,7 @@ Exercises in Python
 + [#12 Integer to Roman](code/int2roman.py)
 + [#13 Roman to Integer](code/roman2int.py)
 + [#14 Longest Common Prefix](code/lcp.py)
++ [#20 Valid Parentheses](code/balancedparentheses.py)
 + [#28 Implement strStr](code/strstr.py)
 + [#169 Majority Element](code/major_elem.py)
 + [#179 Largest Number](code/largestnumber.py)
@@ -22,7 +23,6 @@ Exercises in Python
 ## Others
 + [Anagram Detection](code/anagram.py)
 + [Greatest Common Divisor](code/gcd.py)
-+ [Balanced Parentheses](code/balancedparentheses.py)
 + [Integer to Binary](code/int2binary.py)
 + [Modular Exponentiation](code/modexp.py)
 + [Covering Segments by Points](code/covering_segments.py)
