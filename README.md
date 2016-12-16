@@ -17,6 +17,7 @@ Exercises in Python
 + [#13 Roman to Integer](code/roman2int.py)
 + [#14 Longest Common Prefix](code/lcp.py)
 + [#15 3Sum](code/threesum.py)
++ [#16 3Sum Closest](code/threesumcloest.py)
 + [#20 Valid Parentheses](code/balancedparentheses.py)
 + [#26 Remove Duplicates from Sorted Array](code/rmduplicate.py)
 + [#28 Implement strStr](code/strstr.py)
