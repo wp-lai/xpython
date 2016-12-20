@@ -34,3 +34,4 @@ Exercises in Python
 + [Finding the Distance of Closest Pair of Points](code/CPP.py)
 + [Find Pattern in Text](code/substrsearch.py)
 + [Longest Common Substring](code/lcs.py)
++ [Day of Year to Day of Month](code/month_day.py)
