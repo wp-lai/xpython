@@ -30,7 +30,7 @@ def find_kth_largest(nums, k):
     if i == k - 1:
         return nums[i]
     elif i < k - 1:
-        return find_kth_largest(nums[i+1:], k - 1 - i)
+        return find_kth_largest(nums[i + 1:], k - 1 - i)
     else:
         return find_kth_largest(nums[:i], k)
 
@@ -38,4 +38,3 @@ def find_kth_largest(nums, k):
 if __name__ == '__main__':
     import doctest
     doctest.testmod()
-
