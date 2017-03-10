@@ -23,6 +23,7 @@ Exercises in Python
 + [#28 Implement strStr](code/strstr.py)
 + [#169 Majority Element](code/major_elem.py)
 + [#179 Largest Number](code/largestnumber.py)
++ [#215 Kth Largest Element in an Array](code/kthlargest.py)
 
 ## Others
 + [Anagram Detection](code/anagram.py)
