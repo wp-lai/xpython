@@ -17,22 +17,20 @@ def find_kth_largest(nums, k):
 
     # reorder so that left part > key, right part < key
     key = nums[0]
-    i, j = 1, 1
-    while j < length:
+    i = 1
+    for j in range(1, length):
         if nums[j] > key:
             nums[i], nums[j] = nums[j], nums[i]
             i += 1
-        j += 1
-    i -= 1
-    nums[i], nums[0] = nums[0], nums[i]
+    nums[i - 1], nums[0] = nums[0], nums[i - 1]
 
     # divide and conqure
-    if i == k - 1:
-        return nums[i]
-    elif i < k - 1:
-        return find_kth_largest(nums[i + 1:], k - 1 - i)
+    if i == k:
+        return nums[i - 1]
+    elif i < k:
+        return find_kth_largest(nums[i:], k - i)
     else:
-        return find_kth_largest(nums[:i], k)
+        return find_kth_largest(nums[:i - 1], k)
 
 
 if __name__ == '__main__':
