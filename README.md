@@ -39,3 +39,7 @@ Exercises in Python
 
 # Data Structures
 + [Rolling Hash](code/rollinghash.py)
+
+# Learning Resources
++ [Modern Python LiveLessons: Big Ideas and Little Code in Python
+by Raymond Hettinger](https://www.safaribooksonline.com/library/view/modern-python-livelessons/9780134743400/)
