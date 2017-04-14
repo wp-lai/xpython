@@ -19,6 +19,7 @@ Exercises in Python
 + [#15 3Sum](code/threesum.py)
 + [#16 3Sum Closest](code/threesumcloest.py)
 + [#20 Valid Parentheses](code/balancedparentheses.py)
++ [#23 Merge k Sorted Lists](code/mergeklists.py)
 + [#26 Remove Duplicates from Sorted Array](code/rmduplicate.py)
 + [#28 Implement strStr](code/strstr.py)
 + [#169 Majority Element](code/major_elem.py)
