@@ -38,9 +38,10 @@ Exercises in Python
 + [Longest Common Substring](code/lcs.py)
 + [Day of Year to Day of Month](code/month_day.py)
 
-# Data Structures
+## Data Structures
 + [Rolling Hash](code/rollinghash.py)
 
-# Learning Resources
+## Learning Resources
 + [Modern Python LiveLessons: Big Ideas and Little Code in Python
 by Raymond Hettinger](https://www.safaribooksonline.com/library/view/modern-python-livelessons/9780134743400/)
++ [Getting Started Testing your Python by Ned Batchelder](https://nedbatchelder.com/text/st.html)
