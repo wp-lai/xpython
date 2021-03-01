@@ -8,21 +8,22 @@ Task:
 
 >>> nums, val = [3, 2, 2, 3], 3
 >>> res = remove_element(nums, val)
->>> res
-2
->>> nums[0:res]
-[2, 2]
+>>> res, nums[0:res]
+(2, [2, 2])
+>>> nums, val = [0, 1, 2, 2, 3, 0, 4, 2], 2
+>>> res = remove_element(nums, val)
+>>> res, nums[0:res]
+(5, [0, 1, 3, 0, 4])
 """
 def remove_element(nums, val):
     size = len(nums)
     index_pre, index_post = 0, 0
     while index_pre < size:
-        if nums[index_pre] == val:
+        while nums[index_pre] == val:
             index_pre += 1
-            if index_pre >= size: break
+            if index_pre >= size: return index_post
         nums[index_post] = nums[index_pre]
-        index_pre += 1
-        index_post += 1
+        index_pre, index_post = index_pre + 1, index_post + 1
     return index_post
 
 
