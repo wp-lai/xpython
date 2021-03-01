@@ -21,6 +21,7 @@ Exercises in Python
 + [#20 Valid Parentheses](code/balancedparentheses.py)
 + [#23 Merge k Sorted Lists](code/mergeklists.py)
 + [#26 Remove Duplicates from Sorted Array](code/rmduplicate.py)
++ [#27 Remove Element](code/remove_element.py)
 + [#28 Implement strStr](code/strstr.py)
 + [#169 Majority Element](code/major_elem.py)
 + [#179 Largest Number](code/largestnumber.py)
