@@ -1,14 +1,14 @@
 language: python
 
 python:
-    - "3.6"
+    - "3.7"
     - "nightly"
 
 install:
     - pip install -r requirements.txt
 
 before_script:
-    - flake8 ./code/ --ignore=F811
+    - flake8 ./code/ --ignore=F811,W504
 
 script:
     - py.test ./code/ --doctest-modules

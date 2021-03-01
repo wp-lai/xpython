@@ -4,6 +4,9 @@
 Exercises in Python
 
 ## Leetcode
+<details>
+  <summary>Click to expand</summary>
+
 + [#1 Two Sum](code/twosum.py)
 + [#3 Longest Substring Without Repeating Characters](code/longestsubstringlen.py)
 + [#4 Median of Two Sorted Arrays](code/findmediansortedarrays.py)
@@ -27,7 +30,12 @@ Exercises in Python
 + [#179 Largest Number](code/largestnumber.py)
 + [#215 Kth Largest Element in an Array](code/kthlargest.py)
 
+</details>
+
 ## Others
+<details>
+  <summary>Click to expand</summary>
+
 + [Anagram Detection](code/anagram.py)
 + [Greatest Common Divisor](code/gcd.py)
 + [Integer to Binary](code/int2binary.py)
@@ -39,10 +47,22 @@ Exercises in Python
 + [Longest Common Substring](code/lcs.py)
 + [Day of Year to Day of Month](code/month_day.py)
 
+</details>
+
 ## Data Structures
+<details>
+  <summary>Click to expand</summary>
+
 + [Rolling Hash](code/rollinghash.py)
 
+</details>
+
 ## Learning Resources
+<details>
+  <summary>Click to expand</summary>
+
 + [Modern Python LiveLessons: Big Ideas and Little Code in Python
 by Raymond Hettinger](https://www.safaribooksonline.com/library/view/modern-python-livelessons/9780134743400/)
 + [Getting Started Testing your Python by Ned Batchelder](https://nedbatchelder.com/text/st.html)
+
+</details>
