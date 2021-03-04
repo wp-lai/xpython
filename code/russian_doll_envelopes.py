@@ -19,17 +19,6 @@ Task:
 """
 
 
-# def longest_increasing_subsequence(arr):
-#     print(f"arr {arr}")
-#     res = [1 for _ in arr]
-#     for i in range(1, len(arr)):
-#         for j in range(0, i):
-#             if arr[i] > arr[j] and res[i] <= res[j]:
-#                 res[i] = res[j] + 1
-#     print(f"res {res}")
-#     return max(res)
-
-
 def max_envelopes(envelopes):
     res = [1 for _ in envelopes]
     sorted_by_width = sorted(envelopes, key=lambda x: x[0])
