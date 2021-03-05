@@ -29,6 +29,7 @@ Exercises in Python
 + [#169 Majority Element](code/major_elem.py)
 + [#179 Largest Number](code/largestnumber.py)
 + [#215 Kth Largest Element in an Array](code/kthlargest.py)
++ [#300 Longest Increasing Subsequence](code/longest_increasing_subsequence.py)
 + [#303 Range Sum Query](code/range_sum_query.py)
 + [#338 Counting Bits](code/counting_bits.py)
 + [#354 Russian Doll Envelopes](code/russian_doll_envelopes.py)
