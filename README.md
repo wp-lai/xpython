@@ -33,6 +33,7 @@ Exercises in Python
 + [#303 Range Sum Query](code/range_sum_query.py)
 + [#338 Counting Bits](code/counting_bits.py)
 + [#354 Russian Doll Envelopes](code/russian_doll_envelopes.py)
++ [#496 Next Greater Element 1](code/next_greater_element1.py)
 
 </details>
 
