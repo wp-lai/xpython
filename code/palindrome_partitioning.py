@@ -28,7 +28,7 @@ def partition(s):
             return
         for j in range(i, n):
             if edge[i][j]:
-                path.append(s[i:j+1])
+                path.append(s[i:j + 1])
                 dfs(j + 1)
                 path.pop()
 
