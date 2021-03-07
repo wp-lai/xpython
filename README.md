@@ -26,6 +26,7 @@ Exercises in Python
 + [#26 Remove Duplicates from Sorted Array](code/rmduplicate.py)
 + [#27 Remove Element](code/remove_element.py)
 + [#28 Implement strStr](code/strstr.py)
++ [#131 Palindrome Partitioning](code/palindrome_partitioning.py)
 + [#169 Majority Element](code/major_elem.py)
 + [#179 Largest Number](code/largestnumber.py)
 + [#215 Kth Largest Element in an Array](code/kthlargest.py)
